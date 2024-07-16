@@ -1,1 +1,2 @@
-# qrickcc.github.io
+# core-values-encoder
+Translating text to core values and back
